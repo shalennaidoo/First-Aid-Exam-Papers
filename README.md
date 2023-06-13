@@ -29,10 +29,6 @@ To manually install the APK on your Android device, follow these steps:
 
 4. Navigate to the location of the APK file on your device and tap on it. You should then see an option to install the app.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author/Contact
 
 Shalen Naidoo - View my Other Projects on [shalen-dev.tantum.co.za](https://shalen-dev.tantum.co.za)
@@ -42,3 +38,7 @@ Shalen Naidoo - View my Other Projects on [shalen-dev.tantum.co.za](https://shal
 We welcome contributions to First Aid Exam Papers! If you would like to contribute, feel free to fork the repository, make your changes and then submit a pull request. We will review it as soon as possible.
 
 Remember, First Aid Exam Papers is designed with the aim to assist every student in their journey to ace the matric exams. Let's work together to make this tool better for everyone!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
