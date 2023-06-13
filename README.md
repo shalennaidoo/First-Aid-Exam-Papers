@@ -7,7 +7,11 @@ Whether you are studying for a big test or just want to brush up on a topic, thi
 
 ## Demo
 
-![Demo](assets/firstaidexampapers.mp4)
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="/assets/firstaidexampapers.mp4" type="video/mp4">
+  </video>
+</figure>
 
 ## Features
 
