@@ -7,7 +7,7 @@ Whether you are studying for a big test or just want to brush up on a topic, thi
 
 ## Demo
 
-![Video](https://github.com/shalennaidoo/First-Aid-Exam-Papers/blob/main/assets/firstaidexampapers.mp4)
+|    ![Demo1](assets/firstaidexampapers1.gif)    | ![Demo2](assets/firstaidexampapers2.gif) |
 
 ## Features
 
