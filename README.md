@@ -8,6 +8,7 @@ Whether you are studying for a big test or just want to brush up on a topic, thi
 ## Demo
 
 |    ![Demo1](assets/firstaidexampapers1.gif)    | ![Demo2](assets/firstaidexampapers2.gif) |
+| :-----------------------------------------: | :-------------------------------: |
 
 ## Features
 
