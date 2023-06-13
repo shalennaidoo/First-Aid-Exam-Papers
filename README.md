@@ -7,7 +7,7 @@ Whether you are studying for a big test or just want to brush up on a topic, thi
 
 ## Demo
 
-![Demo](assets/firstaidexampapers.gif)
+![Demo](assets/firstaidexampapers.mp4)
 
 ## Features
 
